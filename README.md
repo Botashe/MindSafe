@@ -1,4 +1,5 @@
 MindSafe
+
 MindSafe es una aplicación diseñada para brindar apoyo a personas con ansiedad o ataques de pánico, ofreciendo herramientas como contacto directo, un foro de apoyo mutuo, un diario emocional y más.
 
 🚀 Recomendación: Instala y prueba la aplicación primero
